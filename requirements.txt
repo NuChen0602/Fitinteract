@@ -1,0 +1,3 @@
+python-dotenv>=1.0.0
+websockets>=16.0,<18.0
+dashscope>=1.23.9,<2.0.0

@@ -1,0 +1,6 @@
+.env
+.venv/
+results/
+AGENTS.md
+__pycache__/
+*.pyc
