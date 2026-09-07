@@ -1,0 +1,13 @@
+{
+  "video_path": "053.mp4",
+  "query": "I want to do a set of squats, help me check my form and remind me right away if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 12,
+        "end": 14.41
+      },
+      "text": "Hand movements aren't standard"
+    }
+  ]
+}

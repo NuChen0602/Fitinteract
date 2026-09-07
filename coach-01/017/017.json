@@ -1,0 +1,13 @@
+{
+  "video_path": "017.mp4",
+  "query": "I want to do a set of bent-over dumbbell row, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 13.19,
+        "end": 15.38
+      },
+      "text": "Keep your knees aligned with your toes, lift your chest, and brace your core."
+    }
+  ]
+}

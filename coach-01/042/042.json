@@ -1,0 +1,13 @@
+{
+  "video_path": "042.mp4",
+  "query": "I want to do a set of standing dumbbell shoulder press, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 6.51,
+        "end": 8.69
+      },
+      "text": "Don’t bring the dumbbells too close together. Keep them above your shoulders."
+    }
+  ]
+}

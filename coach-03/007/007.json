@@ -1,0 +1,13 @@
+{
+  "video_path": "007.mp4",
+  "query": "If I only mess up this set of squats once, don't stop me; only tell me when it keeps happening.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 14.16,
+        "end": 17.48
+      },
+      "text": "[WAIT]"
+    }
+  ]
+}

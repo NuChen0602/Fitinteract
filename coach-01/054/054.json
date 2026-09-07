@@ -1,0 +1,13 @@
+{
+  "video_path": "054.mp4",
+  "query": "I want to do a set of squats, help me check my form and remind me right away if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 8.83,
+        "end": 10.19
+      },
+      "text": "Squat a little deeper. Sit your hips back and down while keeping your heels on the floor."
+    }
+  ]
+}

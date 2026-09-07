@@ -1,0 +1,13 @@
+{
+  "video_path": "005.mp4",
+  "query": "If I only mess up this set of standing dumbbell shoulder presses once, don’t interrupt me; only tell me if it keeps happening.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 9.57,
+        "end": 11.24
+      },
+      "text": "[WAIT]"
+    }
+  ]
+}

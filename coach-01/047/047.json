@@ -1,0 +1,13 @@
+{
+  "video_path": "047.mp4",
+  "query": "I want to do a set of standing dumbbell shoulder press, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 10.49,
+        "end": 12.37
+      },
+      "text": "Keep your wrists neutral and aligned with your forearms."
+    }
+  ]
+}

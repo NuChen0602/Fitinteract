@@ -1,0 +1,13 @@
+{
+  "video_path": "072.mp4",
+  "query": "I want to do a set of squats, help me check my form and remind me right away if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 12.61,
+        "end": 14.47
+      },
+      "text": "Be mindful that your knees tend to cave in a bit, so move them in the direction of your toes."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "video_path": "031.mp4",
+  "query": "I want to do a set of standing dumbbell biceps curl, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 7.77,
+        "end": 9.66
+      },
+      "text": "Stop at the top without bringing your elbows forward."
+    }
+  ]
+}

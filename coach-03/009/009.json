@@ -1,0 +1,13 @@
+{
+  "video_path": "009.mp4",
+  "query": "If I make a mistake doing a push-up just once, don’t interrupt me; tell me only if the problem keeps happening.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 9.12,
+        "end": 10.9
+      },
+      "text": "[WAIT]"
+    }
+  ]
+}

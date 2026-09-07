@@ -1,0 +1,13 @@
+{
+  "video_path": "087.mp4",
+  "query": "I want to do a set of standing dumbbell overhead triceps extension, help me check my form and remind me right away if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 17.27,
+        "end": 18.64
+      },
+      "text": "Lower the dumbbell further behind your head before extending your elbows."
+    }
+  ]
+}

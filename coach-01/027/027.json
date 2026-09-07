@@ -1,0 +1,13 @@
+{
+  "video_path": "027.mp4",
+  "query": "I want to do a set of standing alternating dumbbell curl, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 11.93,
+        "end": 13.8
+      },
+      "text": "Keep your elbow by your side. Don’t let it drift forward."
+    }
+  ]
+}

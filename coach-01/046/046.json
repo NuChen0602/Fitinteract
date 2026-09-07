@@ -1,0 +1,13 @@
+{
+  "video_path": "046.mp4",
+  "query": "I want to do a set of standing dumbbell shoulder press, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 8.86,
+        "end": 10.79
+      },
+      "text": "Keep your shoulders away from your ears. Don’t shrug as you press."
+    }
+  ]
+}

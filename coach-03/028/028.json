@@ -1,0 +1,13 @@
+{
+  "video_path": "028.mp4",
+  "query": "If I just occasionally mess up this set of standing dumbbell side bends, don't interrupt me; only tell me if the problem keeps happening.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 11.94,
+        "end": 14.23
+      },
+      "text": "[WAIT]"
+    }
+  ]
+}

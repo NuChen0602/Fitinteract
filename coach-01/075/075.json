@@ -1,0 +1,13 @@
+{
+  "video_path": "075.mp4",
+  "query": "I want to do a set of squats, help me check my form and remind me right away if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 12.53,
+        "end": 14.37
+      },
+      "text": "Keep your knees tracking with your toes. Don’t push them too far outward."
+    }
+  ]
+}

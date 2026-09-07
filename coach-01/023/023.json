@@ -1,0 +1,13 @@
+{
+  "video_path": "023.mp4",
+  "query": "I want to do a set of bent-over dumbbell row, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 8.84,
+        "end": 10.38
+      },
+      "text": "Keep your elbows closer to your body and drive them straight back."
+    }
+  ]
+}

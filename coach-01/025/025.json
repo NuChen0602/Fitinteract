@@ -1,0 +1,13 @@
+{
+  "video_path": "025.mp4",
+  "query": "I want to do a set of bent-over dumbbell row, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 8.06,
+        "end": 9.39
+      },
+      "text": "Keep the dumbbells by your sides and pull them toward your waist, not toward the center."
+    }
+  ]
+}

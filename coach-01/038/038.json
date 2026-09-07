@@ -1,0 +1,13 @@
+{
+  "video_path": "038.mp4",
+  "query": "I want to do a set of standing alternating dumbbell curl, help me check my form and remind me immediately if anything's wrong.",
+  "annotation": [
+    {
+      "time_window_sec": {
+        "start": 11.2,
+        "end": 11.93
+      },
+      "text": "Keep your torso upright and still. Curl with your arm, not your body."
+    }
+  ]
+}
